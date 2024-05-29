@@ -1,0 +1,30 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/accidental-alcohol-related-mortality---secondary.py
+inputModule3:
+  class: File
+  path: python/alcohol-related-mortality-cirrhosis---secondary.py
+inputModule4:
+  class: File
+  path: python/cardiomyopathy-alcohol-related-mortality---secondary.py
+inputModule5:
+  class: File
+  path: python/mortality-alcoholrelated---secondary.py
+inputModule6:
+  class: File
+  path: python/alcohol-related-mortality-exposure---secondary.py
+inputModule7:
+  class: File
+  path: python/chronic-alcohol-related-mortality---secondary.py
+inputModule8:
+  class: File
+  path: python/alcohol-related-mortality-liver---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
